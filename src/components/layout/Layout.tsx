@@ -7,7 +7,7 @@ interface LayoutProps {
 
 const Layout = ({children}: LayoutProps) => {
   return (
-    <div className='bg-hero-pattern  bg-cover h-full'>
+    <div className='bg-hero-pattern  bg-cover h-full bg-no-repeat'>
       <BackdropContainer>
         {children}
       </BackdropContainer>

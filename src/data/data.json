@@ -1,0 +1,32 @@
+{
+  "movies":[
+  {
+  "id":"1",
+  "title": "bleach",
+  "img": "/assets/you-might-like/bleach-ichigo.jpg",
+  "genre": "Animation",
+  "description": "lorem Ipsum deqwe qwejqwie qwiej qwije qwieiqwjdijqwi djqiwdj"
+  },
+  {
+  "id":"2",
+  "title": "The Witcher",
+  "img": "/assets/you-might-like/witcher.webp",
+  "genre": "Fantasy",
+  "description": "lorem Ipsum deqwe qwejqwie qwiej qwije qwieiqwjdijqwi djqiwdj"
+  },
+  {
+  "id":"3",
+  "title": "Solo-Leveling",
+  "img": "/assets/you-might-like/solo-leveling.jpg",
+  "genre": "Animation",
+  "description": "lorem Ipsum deqwe qwejqwie qwiej qwije qwieiqwjdijqwi djqiwdj"
+  },
+  {
+  "id":"4",
+  "title": "Argylle",
+  "img": "/assets/you-might-like/argylle.webp",
+  "genre": "Mystery",
+  "description": "lorem Ipsum deqwe qwejqwie qwiej qwije qwieiqwjdijqwi djqiwdj"
+  }
+]
+}

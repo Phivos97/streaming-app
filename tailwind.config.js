@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattern': "url('/spiderman.png')",
+        'hero-pattern': "url('/last-kingdom.jpg')",
       }
     },
   },

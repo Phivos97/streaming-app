@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./out", // output directory for compiled files
+    "rootDir": "./src", // source directory
+    // "resolveJsonModule": true,
+    "baseUrl": "./"
+  },
+  "include": [
+    "src/**/*.ts", // include TypeScript files under src directory
+    "src/**/*.tsx" // if using TypeScript with React
+  ],
+  "exclude": [
+    "node_modules",
+    "out" // exclude output directory from compilation
+  ]
+}

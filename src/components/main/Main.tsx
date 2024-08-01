@@ -6,7 +6,7 @@ interface MainProps {
 
 const Main = ({children}: MainProps) => {
   return (
-    <div className='h-full overflow-auto'>{children}</div>
+    <div className=' '>{children}</div>
   )
 }
 
